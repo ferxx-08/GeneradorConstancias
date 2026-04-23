@@ -5,7 +5,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from datetime import datetime
 import os
 import tempfile
-from docx2pdf import convert
+#from docx2pdf import convert
 
 st.set_page_config(page_title="Constancias UAEM", page_icon="📄")
 
